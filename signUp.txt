@@ -1,0 +1,2 @@
+void clientinfo();
+void check validity;

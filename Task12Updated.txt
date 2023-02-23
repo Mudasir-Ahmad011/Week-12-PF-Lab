@@ -1,0 +1,8 @@
+Name: ali
+Addmission Number: 204
+Percentage: 88
+
+Name: noman
+Addmission Number: 209
+Percentage: 85
+
